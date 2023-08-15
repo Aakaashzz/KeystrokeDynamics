@@ -2,16 +2,16 @@
 # Web-Based Authentication System
 # Abstract
 
-Biometric identification systems based on Keystroke Dynamics have been around for almost forty years now. There has always been a lot of interest in identifying individuals using their physiological or behavioral traits. Keystroke Dynamics focuses on the particular way a person types on a keyboard. 
+Keystroke Dynamics-based biometric identification technologies have been in use for almost 40 years. Identification of people based on their physiological or behavioural characteristics has always attracted a lot of interest. Keystroke Dynamics focuses on the specific way that a person types on a keyboard.
 
 # Objectives
 
-The objective of the proposed research is to determine how well the identity of users can be established when using this biometric trait and when contextual information is also taken into account. The proposed research focuses on free text. Users were never told what to type, how or when. This particular field of Keystroke Dynamics has not been as thoroughly studied as the fixed text alternative where a plethora of methods have been tried.
+The goal of the proposed study is to evaluate how well users' identities can be verified using this biometric trait and with the addition of contextual data. The proposed study is concerned with free text. Users were never instructed on how, when, or what to type. As compared to the fixed text alternative, where a variety of techniques have been tried, this particular area of keystroke dynamics has not been as thoroughly studied.
 
 # Proposed Methods
-The proposed methods focus on the hypothesis that the position of a particular letter, or combination of letters, in a word is of high importance. Other studies have not taken into account if these letter combinations had occurred at the beginning, the middle, or the end of a word. A template of the user will be built using the context of the written words and the latency between successive keystrokes. Other features, like word length, minimum number of needed words to consider a session valid, frequency of words, model building parameters, as well as age group and gender have also been studied to determine those that better help ascertain the identity of an individual.
+The proposed techniques are based on the idea that a letter's or a group of letters' placement within a word has a significant impact. Other studies did not account for whether these letter combinations were found at the start, middle, or end of a word. The context of the written words and the delay between each keystroke will be used to create a template of the user. The effectiveness of various features in determining an individual's identity, including word length, the minimum number of words required for a session to be considered valid, frequency of words, model-building parameters, age group, and gender, has also been investigated.
 
 # Results
-The results of the proposed research should help determine if using Keystroke Dynamics and the proposed methodology are enough to identify users from the content they type with a good enough level of certainty. From this moment, it could be used as a method to ensure that a user is not supplanted, in authentication schemes, or even to help determine the authorship of different parts of a document written by more than one user.
+The proposed research's findings should be used to assess whether the methodology and Keystroke Dynamics are suitable for reliably identifying users from the text they type. From this point forward, it might be applied as a way to make sure a user isn't replaced, in authentication protocols, or even to help identify the authors of various sections of a document written by multiple users.
 
 Keywords : Keystroke Dynamics, context, free text, identification, authentication
