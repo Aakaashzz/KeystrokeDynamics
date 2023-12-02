@@ -12,6 +12,6 @@ The goal of the proposed study is to evaluate how well users' identities can be 
 The proposed techniques are based on the idea that a letter's or a group of letters' placement within a word has a significant impact. Other studies did not account for whether these letter combinations were found at the start, middle, or end of a word. The context of the written words and the delay between each keystroke will be used to create a template of the user. The effectiveness of various features in determining an individual's identity, including word length, the minimum number of words required for a session to be considered valid, frequency of words, model-building parameters, age group, and gender, has also been investigated.
 
 # Results
-The proposed research's findings should be used to assess whether the methodology and Keystroke Dynamics are suitable for reliably identifying users from the text they type. From this point forward, it might be applied as a way to make sure a user isn't replaced, in authentication protocols, or even to help identify the authors of various sections of a document written by multiple users.
+The proposed research's findings is used to assess whether the methodology and Keystroke Dynamics are suitable for reliably identifying users from the text they type. From this point forward, it might be applied as a way to make sure a user isn't replaced, in authentication protocols, or even to help identify the authors of various sections of a document written by multiple users.
 
-Keywords : Keystroke Dynamics, context, free text, identification, authentication
+Keywords : Keystroke Dynamics, context, free text, identification, authentication.
